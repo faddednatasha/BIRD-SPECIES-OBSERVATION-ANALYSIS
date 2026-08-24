@@ -7,6 +7,11 @@
 
 ---
 
+
+<img width="1212" height="683" alt="DASHBOARD_IMG" src="https://github.com/user-attachments/assets/d30ebf5e-d4f5-491c-9f83-cb9a9360ee4b" />
+
+---
+
 ## Problem Statement
 
 This project analyzes the distribution and diversity of bird species across two distinct ecosystems: forests and grasslands. By examining bird species observations across these habitats, the goal is to understand how environmental factors — such as vegetation type, temperature, humidity, and wind conditions — influence bird populations and behavior.
